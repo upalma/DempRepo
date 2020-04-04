@@ -8,5 +8,13 @@
     <artifactId>gitProject</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>ai.cookie</groupId>
+            <artifactId>cookie-datasets_2.10</artifactId>
+            <version>0.1.0</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
